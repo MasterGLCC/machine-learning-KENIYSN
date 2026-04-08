@@ -42,4 +42,3 @@ plt.legend()
 plt.grid(True, alpha=0.2)
 plt.show()
 
-print(f"L'entraînement est fini. Ta droite est tracée !")
